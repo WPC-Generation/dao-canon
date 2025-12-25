@@ -41,3 +41,28 @@ Note: The core conversion law from ineffable imagery to expressible symbols—to
 
 以上六经，环环相扣，共成道体。其所详述之微言大义、衍生之法术器用，皆在完整传承之中。本门立此悬镜，以待有缘，共参生成之妙道。
 These Six Scriptures interlock like rings, together completing the body of the Dao. Their subtle meanings in detail, along with the derived methods, arts, and applications, are fully preserved in the complete transmission. Our school suspends this mirror awaiting those with affinity, to jointly explore the wondrous way of generation.
+
+📌 Multi-Repository Rights Statement（多仓库权属声明）
+The five parallel repositories (the first as the statement repository, and the 2nd to 5th as repositories for Dao, Fa, Shu, Qi) constitute an integrated intellectual property portfolio of the WeiPengchen Generative School System. Key provisions are as follows:
+
+1. Parallel Repository Uniformity: All repositories are of equal status, with no hierarchical "main repository" relationship. The first repository's rights statement shall serve as the governing document for the other four repositories, and all content shall be subject to the same rights rules.
+
+2. Public ≠ Open-Source: The public availability of theoretical content in all repositories is solely for overseas copyright registration, timestamped disclosure, and academic reference. It does not grant any express or implied open-source license, nor does it allow unauthorized use, reproduction, modification, commercialization, or derivation of core theories, methodologies, or technical details.
+
+3. Rights Reservation: All intellectual property rights, including copyrights, patent rights, trade secrets, and future implementation codes, are exclusively owned by WeiPengchen. Any use beyond academic reference requires prior written authorization from the copyright owner.
+
+4. Overseas Copyright Alignment: This statement is consistent with the ongoing overseas copyright registration process, ensuring uniform rights protection across domestic and international jurisdictions.
+
+韦朋辰 发表
+
+🚀 Ecosystem Next Steps（生态后续规划）
+
+1. Reference Implementation: Publishing proof-of-concept tools and demos (subject to separate authorization).
+
+2. Ecosystem Partnership: Exploring collaboration with aligned AI platforms and educational institutions based on written authorization agreements.
+
+3. Productization: Translating the theory into inclusive education products and services, with strict adherence to intellectual property rules.
+
+---
+
+This repository is a monument to thought, a boundary for rights, and an invitation to those who build the future with integrity.
